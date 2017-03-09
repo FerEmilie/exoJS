@@ -1,3 +1,4 @@
+```javascript
 //REVISIONS
 // Declarez une variable nommée "boucler" contenant true
 var boucler = true;
@@ -42,3 +43,4 @@ var members = ["Aida67", "lapie002", "anneserrano", "Jennysmille", "nunkabuk", "
 
 
 // FIN COURS AJAX
+```
